@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* Hi I'm Mohamed Skhiri, 22 y.o. Software Engineering Student at Higher Institute of Informatics and Mathematics of Monastir
+*I'm Mohamed Skhiri, 22 y.o. Software Engineering Student at Higher Institute of Informatics and Mathematics of Monastir
 
 * fields of interest include but aren't limited to:<br>
   *  Web Developpement <br>
