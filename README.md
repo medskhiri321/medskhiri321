@@ -7,7 +7,6 @@
   *  Computer Software Developpement<br>
   *  Cybersecurity<br>
   *  Game Development<br>
-  *  Implementing all of the above in Web, Desktop and Mobile apps
 <hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
