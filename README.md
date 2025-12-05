@@ -47,3 +47,6 @@
   <img width="10" />
 </div>
 <hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mindblownserver&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
