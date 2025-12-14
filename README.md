@@ -48,5 +48,4 @@
 </div>
 <hr>
 
-## 🏆 GitHub Trophies
-![](https://retroachievements.org/user/msiyay)
+
